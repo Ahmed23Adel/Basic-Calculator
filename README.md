@@ -1,6 +1,6 @@
 Basic calculator that can can perform basic operations (Addition, subtraction, Multiplication, and division), with cool design.
 
-Language used: C#
+Language used: C# </br>
 Framework: .Net.
 
 Screenshots:
